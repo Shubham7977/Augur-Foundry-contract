@@ -27,8 +27,6 @@ contract MockShareToken is ERC1155 {
     // }
 
 
-
-
     function claimTradingProceeds(
        /* address _market,
         address _shareHolder,
